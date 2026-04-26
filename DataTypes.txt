@@ -1,0 +1,15 @@
+Primitive Data Types in Java
+
+| **Data Type** | **Size** | **Default Value** | **Range**                      |
+| ------------- | -------- | ----------------- | ------------------------------ |
+| `byte`        | 1 byte   | 0                 | -128 to 127                    |
+| `short`       | 2 bytes  | 0                 | -32,768 to 32,767              |
+| `int`         | 4 bytes  | 0                 | -2³¹ to 2³¹-1                  |
+| `long`        | 8 bytes  | 0L                | -2⁶³ to 2⁶³-1                  |
+| `float`       | 4 bytes  | 0.0f              | \~±3.4e38 (7 decimal digits)   |
+| `double`      | 8 bytes  | 0.0d              | \~±1.7e308 (15 decimal digits) |
+| `char`        | 2 bytes  | '\u0000'          | 0 to 65,535 (Unicode)          |
+| `boolean`     | 1 bit\*  | false             | true or false                  |
+
+Non Primitive :
+String, Array, Class, Object, Interface, Enum

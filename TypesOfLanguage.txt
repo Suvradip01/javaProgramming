@@ -1,0 +1,16 @@
+Types of Languages
+
+Procedural Languages - Program is a sequence of instructions (procedures or functions) that run step-by-step.
+example - c,pascal
+
+Functional Languages - A way of programming where you use functions (like math formulas) to return/get results, without changing the original data.
+example - Haskell,Scala.
+
+Object-Oriented Languages (OOP) - Organize code as objects that combine data (fields) and behavior (methods).
+example - java, c++, python, c#
+
+Static Languages (Compile time) - A programming language where variable types are declared and checked at compile-time 
+example - java, c++, c
+
+Dynamic Languages (Runtime) - A programming language where variable types are determined and checked at run-time 
+example - python, javascript
